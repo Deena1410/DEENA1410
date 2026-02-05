@@ -1,16 +1,82 @@
-## Hi there 👋
+🚀 Hi, I'm Deena Dhayalan
 
-<!--
-**Deena1410/DEENA1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer building modern, scalable web applications
+⚡ Passionate about Full-Stack Development & real-world projects
+🌱 Always learning, always shipping
 
-Here are some ideas to get you started:
+🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MCA Graduate
+
+💼 Full Stack Developer Intern experience
+
+🌐 Building full-stack apps with modern technologies
+
+🎯 Goal: Become a top full-stack developer
+
+(Details adapted from your resume profile 
+
+Deena RESUME (2)
+
+)
+
+⚙️ Tech Stack
+
+Frontend
+
+React.js
+
+JavaScript (ES6+)
+
+HTML5, CSS3, Bootstrap
+
+Backend
+
+Node.js
+
+Express.js
+
+REST APIs
+
+Database
+
+MongoDB
+
+MySQL
+
+Tools
+
+Git & GitHub
+
+Postman
+
+Docker
+
+VS Code
+
+🚀 Featured Projects
+
+✅ Voice Assistant (JARVIS)
+✅ Expense Tracker App
+✅ Personal Portfolio Website
+✅ Full-Stack Web Applications
+
+📈 Current Focus
+
+Advanced MERN stack development
+
+Building scalable real-world projects
+
+Interview & product-level preparation
+
+🤝 Connect With Me
+
+💼 LinkedIn
+
+🌐 Portfolio Website
+
+📧 Email
+
+⚡ Developer Motto
+
+Code. Build. Improve. Repeat.
