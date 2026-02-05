@@ -1,5 +1,1 @@
-🚀 MERN Stack Developer
-💻 Building modern full-stack web applications
-⚡ React • Node.js • Express • MongoDB
-📚 Always learning and building new projects
-🔥 Code. Build. Improve. Repeat.
+ 𝑪̲̅𝒐̲̅𝒅̲̅𝒆̲̅. 𝑩̲̅𝒖̲̅𝒊̲̅𝒍̲̅𝒅̲̅. 𝑰̲̅𝒎̲̅𝒑̲̅𝒓̲̅𝒐̲̅𝒗̲̅𝒆̲̅. 𝑹̲̅𝒆̲̅𝒑̲̅𝒆̲̅𝒂̲̅𝒕̲̅.
